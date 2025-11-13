@@ -1,0 +1,15 @@
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.AssemblyInfoInputs.cache
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.AssemblyInfo.cs
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.csproj.CoreCompileInputs.cache
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.sourcelink.json
+/workspaces/VSCodeWeb/C#jinjie/bin/Debug/net8.0/C#jinjie
+/workspaces/VSCodeWeb/C#jinjie/bin/Debug/net8.0/C#jinjie.deps.json
+/workspaces/VSCodeWeb/C#jinjie/bin/Debug/net8.0/C#jinjie.runtimeconfig.json
+/workspaces/VSCodeWeb/C#jinjie/bin/Debug/net8.0/C#jinjie.dll
+/workspaces/VSCodeWeb/C#jinjie/bin/Debug/net8.0/C#jinjie.pdb
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.dll
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/refint/C#jinjie.dll
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.pdb
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/C#jinjie.genruntimeconfig.cache
+/workspaces/VSCodeWeb/C#jinjie/obj/Debug/net8.0/ref/C#jinjie.dll
