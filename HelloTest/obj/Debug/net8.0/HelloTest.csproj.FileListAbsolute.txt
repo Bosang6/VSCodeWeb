@@ -1,0 +1,15 @@
+/workspaces/VSCodeWeb/HelloTest/bin/Debug/net8.0/HelloTest
+/workspaces/VSCodeWeb/HelloTest/bin/Debug/net8.0/HelloTest.deps.json
+/workspaces/VSCodeWeb/HelloTest/bin/Debug/net8.0/HelloTest.runtimeconfig.json
+/workspaces/VSCodeWeb/HelloTest/bin/Debug/net8.0/HelloTest.dll
+/workspaces/VSCodeWeb/HelloTest/bin/Debug/net8.0/HelloTest.pdb
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.AssemblyInfoInputs.cache
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.AssemblyInfo.cs
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.csproj.CoreCompileInputs.cache
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.sourcelink.json
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.dll
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/refint/HelloTest.dll
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.pdb
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/HelloTest.genruntimeconfig.cache
+/workspaces/VSCodeWeb/HelloTest/obj/Debug/net8.0/ref/HelloTest.dll
